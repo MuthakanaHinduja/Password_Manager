@@ -6,24 +6,11 @@ M. HINDUJA
 Madanapalle Institute Of Technology and Science.
 
 6 WEEKS( June -15 to July 30)
-
-
-
 Executive Summary
 This report provides details of the Industrial Internship provided by upskill Campus and The IoT Academy in collaboration with Industrial Partner UniConverge Technologies Pvt Ltd (UCT).
 This internship was focused on a project/problem statement provided by UCT. We had to finish the project including the report in 6 weeks’ time.
 My project was (Tell about ur Project)
 This internship gave me a very good opportunity to get exposure to Industrial problems and design/implement solution for that. It was an overall great experience to have this internship.
-
-
-
-
-
-
-
-
-
-
 1. Preface
 Summary of the whole 6 weeks’ work.
 About need of relevant Internship in career development.
@@ -50,10 +37,6 @@ It has features to
 • Alert and Notification
 • Integration with third party application(Power BI, SAP, ERP)
 • Rule Engine
-
-   
-
-
 ii.	Smart Factory Platform ( )
 Factory watch is a platform for smart factory needs.
 It provides Users/ Factory 
@@ -62,63 +45,13 @@ It provides Users/ Factory
 •	to unleased the true potential of the data that their machines are generating and helps to identify the KPIs and also improve them.
 •	A modular architecture that allows users to choose the service that they what to start and then can scale to more complex solutions as per their demands.
 Its unique SaaS model helps users to save time, cost and money.
-   
-
-
-
-
-
-
-
 (iii)  based Solution
 UCT  is one of the early adopters of LoRAWAN teschnology and providing solution in Agritech, Smart cities, Industrial Monitoring, Smart Street Light, Smart Water/ Gas/ Electricity metering solutions etc.
 iii.	Predictive Maintenance
 UCT is providing Industrial Machine health monitoring and Predictive maintenance solution leveraging Embedded system, Industrial IoT and Machine Learning Technologies by finding Remaining useful life time of various Machines used in production process.
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-2.2About upskill Campus (USC)
+ 2.2About upskill Campus (USC)
 upskill Campus along with The IoT Academy and in association with Uniconverge technologies has facilitated the smooth execution of the complete internship process.
 USC is a career development platform that delivers personalized executive coaching in a more affordable, scalable and measurable way.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 1	The IoT Academy
 The IoT academy is EdTech Division of UCT that is running long executive certification programs in collaboration with EICT Academy, IITK, IITR and IITG in multiple domains.
 
@@ -266,10 +199,6 @@ It has features to
 • Alert and Notification
 • Integration with third party application(Power BI, SAP, ERP)
 • Rule Engine
-
-   
-
-
 ii.	Smart Factory Platform ( )
 Factory watch is a platform for smart factory needs.
 It provides Users/ Factory 
@@ -279,62 +208,14 @@ It provides Users/ Factory
 •	A modular architecture that allows users to choose the service that they what to start and then can scale to more complex solutions as per their demands.
 Its unique SaaS model helps users to save time, cost and money.
    
-
-
-
-
-
-
-
-(iii)  based Solution
+   (iii)  based Solution
 UCT  is one of the early adopters of LoRAWAN teschnology and providing solution in Agritech, Smart cities, Industrial Monitoring, Smart Street Light, Smart Water/ Gas/ Electricity metering solutions etc.
 iii.	Predictive Maintenance
 UCT is providing Industrial Machine health monitoring and Predictive maintenance solution leveraging Embedded system, Industrial IoT and Machine Learning Technologies by finding Remaining useful life time of various Machines used in production process.
  
-
-
-
-
-
-
-
-
-
-
-
-
-
 2.2About upskill Campus (USC)
 upskill Campus along with The IoT Academy and in association with Uniconverge technologies has facilitated the smooth execution of the complete internship process.
 USC is a career development platform that delivers personalized executive coaching in a more affordable, scalable and measurable way.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 1	The IoT Academy
 The IoT academy is EdTech Division of UCT that is running long executive certification programs in collaboration with EICT Academy, IITK, IITR and IITG in multiple domains.
 
@@ -353,9 +234,6 @@ The objective for this internship program was to
 •	An introduction to probability and statistics by Vijay K. Rohatgi and A.K.Md. Ehsanes Saleh.
 •	Introduction to Machine Learning by Alex Smola and S.V.N. Viswanathan
 
-
-
-
 2.5	Glossary 
 Terms 	Acronym 
 Numpy  	An Open First, I can’t library, that’s used in almost every field of Computer science and engineering 
@@ -367,19 +245,15 @@ Matplotlib 	Across play the song, database relation and graphical plotting libra
 
 3. Problem Statement
 Password Manager:
-
 Description: The password manager is a Python project that securely stores and manages user passwords. It allows users to store their passwords for various accounts, generate strong passwords, and retrieve passwords when needed.
 
 Scope: The scope of this project involves implementing encryption algorithms to secure password storage, designing a user interface to input and retrieve passwords, and developing functions to generate strong passwords and store/retrieve them from a database.
 
 1. Introduction
-
 In today's digital age, individuals often have numerous online accounts, each requiring a unique and secure password. As maintaining and remembering these passwords can become challenging, the Password Manager project aims to address this issue. The project will provide a Python-based application that securely stores and manages user passwords, generating strong passwords when needed, and allowing easy retrieval when required.
 
 2. Objectives
-
 The primary objectives of the Password Manager project are as follows:
-
 - Develop a secure password management system to store user passwords.
 - Implement encryption algorithms to ensure the confidentiality of stored passwords.
 - Create a user-friendly interface for users to input, retrieve, and manage their passwords.
@@ -387,7 +261,6 @@ The primary objectives of the Password Manager project are as follows:
 - Store and retrieve passwords from a database efficiently.
 
 3. Technologies Used
-
 The project leverages the following technologies:
 
 - Python: As the core programming language to develop the password manager application.
@@ -396,11 +269,9 @@ The project leverages the following technologies:
 - GUI Library: To design and create an intuitive graphical user interface for users.
 
 4. System Architecture
-
 The Password Manager follows a client-server architecture. The client application runs on the user's local machine, allowing them to interact with the password manager, while the server-side handles encryption and database operations.
 
 5. Features
-
 The Password Manager offers the following key features:
 
 - User Registration and Login: Users can create an account or log in securely using their credentials.
@@ -410,7 +281,6 @@ The Password Manager offers the following key features:
 - Password Encryption: Passwords are encrypted before being stored in the database, ensuring security.
 
 6. Implementation Details
-
 - User Authentication: The project uses hashing and salting techniques to securely store user passwords and authenticate users during login.
 - Encryption: The application employs AES (Advanced Encryption Standard) or a similar strong encryption algorithm to protect stored passwords.
 - Graphical User Interface (GUI): The GUI is designed using a Python library such as Tkinter or PyQt, providing a user-friendly interface for users to interact with the password manager.
@@ -430,3 +300,4 @@ To further improve the Password Manager, the following enhancements can be consi
 The Password Manager project successfully delivers a secure and user-friendly solution to manage and store passwords efficiently. The application implements encryption algorithms to protect sensitive user data and ensures a smooth user experience through an intuitive graphical interface. With the potential for future enhancements, the Password Manager stands as a reliable tool for users to manage their passwords in the digital world securely.
 
 9. Github link:
+10. https://github.com/MuthakanaHinduja/Password_Manager.git
